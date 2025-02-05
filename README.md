@@ -35,7 +35,7 @@ Installation
 
 1. Clone the Repository
 
-git clone https://github.com/yourusername/ai-chatbot-java.git
+git clone https://github.com/jeneerah34/ai-chatbot-java.git
 cd ai-chatbot-java
 
 
